@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_download_selection.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/activity_download_selection.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_upload.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_download.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/activity_download.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/bucket_item.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/bucket_item.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/record_item.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/record_item.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/ble_main.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/layout/ble_main.xml"
+    }
+]

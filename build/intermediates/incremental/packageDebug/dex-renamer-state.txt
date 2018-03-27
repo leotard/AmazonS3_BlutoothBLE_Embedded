@@ -1,0 +1,7 @@
+#Tue Apr 11 14:33:19 EDT 2017
+base.0=/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_251fa3c7e999f8ddc97cbe57c12b6aff24123a09
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50360311920bd8a9b0b3c4c8ff56021772fec07f/classes.dex
+base.1=/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50360311920bd8a9b0b3c4c8ff56021772fec07f
+file.0=/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_251fa3c7e999f8ddc97cbe57c12b6aff24123a09/classes.dex

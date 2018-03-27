@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_scan"
+        android:title="SCAN"
+        android:icon="@drawable/scan"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_stop"
+        android:title="STOP"
+        android:icon="@drawable/stop"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="REFRESH"
+        android:icon="@drawable/refresh"
+        android:showAsAction="always" />
+
+</menu>

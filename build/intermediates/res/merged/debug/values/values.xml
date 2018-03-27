@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">MicroP</string>
+    <string name="ble_not_supported">This device cannot support BLE</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_all">Cancel all</string>
+    <string name="connected">connected</string>
+    <string name="delete">Delete</string>
+    <string name="disconnected">disconnected</string>
+    <string name="download">Download</string>
+    <string name="download_activity">DownloadActivity</string>
+    <string name="download_selection_activity">Select a file from the bucket</string>
+    <string name="error_bluetooth_not_supported">Error with the adapter</string>
+    <string name="manage_BLE">Manage BLE</string>
+    <string name="manage_download">Manage downloads</string>
+    <string name="manage_upload">Manage uploads</string>
+    <string name="no_data">no data available</string>
+    <string name="pause">Pause</string>
+    <string name="pause_all">Pause all</string>
+    <string name="please_wait">Please wait</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="resume">Resume</string>
+    <string name="title_devices">BLE_device</string>
+    <string name="unknown_characteristic">unknown characteristic</string>
+    <string name="unknown_device">unknown_device</string>
+    <string name="unknown_service">unknown service</string>
+    <string name="upload">Upload</string>
+    <string name="upload_activity">UploadActivity</string>
+    <string name="upload_file">Upload a file</string>
+    <string name="upload_image">Upload an image</string>
+</resources>

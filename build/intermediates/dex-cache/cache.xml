@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leotardn/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.22_cb5bfe69492b6e9d19e08d8a7b2be3bcb24f7386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="394239f4097d1c34e7d496cb3f849db4be20e5c5">
+        <dex dex="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_251fa3c7e999f8ddc97cbe57c12b6aff24123a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leotardn/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.2.22_8d6e71e2333c0a6a5e90b6f235133c8a9f56c8d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98baa06f5e58caee299c63727e37c989ae03172c">
+        <dex dex="/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50360311920bd8a9b0b3c4c8ff56021772fec07f/classes.dex" />
+    </item>
+
+</items>

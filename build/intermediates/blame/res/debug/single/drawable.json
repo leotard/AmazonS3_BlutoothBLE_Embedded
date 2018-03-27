@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/scan.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/scan.png"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/stop.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/connect.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/connect.png"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/drawable/disconnect.png",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/drawable/disconnect.png"
+    }
+]

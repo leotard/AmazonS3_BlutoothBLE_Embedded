@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/res/menu/gatt_services.xml"
+    }
+]

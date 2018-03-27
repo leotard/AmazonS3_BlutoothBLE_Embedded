@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:1:1-63:12
+	package
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:2:5-51
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+		INJECTED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:14:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:15:5-89
+	android:required
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:15:64-87
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:15:19-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:17:19-63
+uses-feature#android.hardware.location.network
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:18:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:22:22-78
+application
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:24:5-61:19
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:26:9-45
+activity#com.amazonaws.demo.s3transferutility.MainActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:28:19-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:32:27-74
+activity#com.amazonaws.demo.s3transferutility.DownloadActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:35:9-37:57
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:36:13-81
+activity#com.amazonaws.demo.s3transferutility.DeviceScanActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:39:9-41:49
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:40:13-83
+activity#com.amazonaws.demo.s3transferutility.DeviceControlActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:43:9-45:52
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:45:13-50
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:44:13-86
+activity#com.amazonaws.demo.s3transferutility.UploadActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:47:9-49:55
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:48:13-79
+activity#com.amazonaws.demo.s3transferutility.DownloadSelectionActivity
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:50:9-52:67
+	android:label
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:52:13-64
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:51:13-90
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:54:9-56:38
+	android:enabled
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:56:13-35
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:55:13-93
+service#com.amazonaws.demo.s3transferutility.BluetoothLeService
+ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:58:9-60:38
+	android:enabled
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:60:13-35
+	android:name
+		ADDED from /Users/leotardn/Documents/Git/aws-sdk-android-samples/S3TransferUtilitySample/AndroidManifest.xml:59:13-83
